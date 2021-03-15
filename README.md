@@ -23,4 +23,4 @@ pip install spotipy
 ```
 
 ## Pictures
-https://user-images.githubusercontent.com/71079996/111101303-0092cb00-8520-11eb-8aca-5da6ce3cb481.jpg
+![Screen Shot 2021-03-14 at 11 40 46 PM](https://user-images.githubusercontent.com/71079996/111101467-5a939080-8520-11eb-8bca-ba866332255f.jpg)
